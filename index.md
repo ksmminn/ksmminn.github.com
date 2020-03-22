@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Kasumin's Develop
 ---
 
