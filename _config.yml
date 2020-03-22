@@ -22,8 +22,6 @@ title: ksmminn.github.com
 email: example@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Kasumin Developerment Site.
-baseurl: "/ksmminn.github.com" # the subpath of your site, e.g. /blog
-url: "https://ksmminn.github.io/
 twitter_username: kasumin_mikan
 github_username:  ksmminn
 
